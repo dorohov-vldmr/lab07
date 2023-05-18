@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab07</string>
+    <string name="ins">Insert</string>
+    <string name="upd">Update</string>
+    <string name="sel">Select</string>
+    <string name="del">Delete</string>
+    <string name="key">Key</string>
+    <string name="val">Value</string>
+</resources>
